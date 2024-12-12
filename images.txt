@@ -2,3 +2,4 @@ rabbitmq:3.12.14-management-alpine
 postgres:15.6-alpine
 schemaspy/schemaspy:6.2.4
 localstack/localstack:0.13.1
+amazonlinux:latest
