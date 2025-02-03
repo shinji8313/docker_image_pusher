@@ -4,3 +4,4 @@ schemaspy/schemaspy:6.2.4
 localstack/localstack:0.13.1
 amazonlinux:latest
 localstack/localstack:3.5.0
+rabbitmq:3.13.7-management-alpine
