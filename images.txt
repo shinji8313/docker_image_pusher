@@ -10,4 +10,3 @@ localstack/localstack:0.13.1
 redis:6.2.6-alpine
 mailhog/mailhog:latest
 opensearchproject/opensearch:1.2.4
-quay.io/keycloak/keycloak:21.0.1
