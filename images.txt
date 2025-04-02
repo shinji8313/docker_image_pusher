@@ -1,7 +1,11 @@
+rabbitmq:3.9.16-management-alpine
 rabbitmq:3.12.14-management-alpine
-postgres:15.6-alpine
-schemaspy/schemaspy:6.2.4
-localstack/localstack:0.13.1
-amazonlinux:latest
-localstack/localstack:3.5.0
 rabbitmq:3.13.7-management-alpine
+postgres:12.8-alpine
+postgres:15.6-alpine
+schemaspy/schemaspy:6.1.0
+schemaspy/schemaspy:6.2.4
+localstack/localstack:0.12.17.5
+localstack/localstack:0.13.1
+redis:6.2.6-alpine
+mailhog/mailhog:latest
