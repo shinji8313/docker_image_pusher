@@ -9,3 +9,4 @@ localstack/localstack:0.12.17.5
 localstack/localstack:0.13.1
 redis:6.2.6-alpine
 mailhog/mailhog:latest
+opensearchproject/opensearch:1.2.4
