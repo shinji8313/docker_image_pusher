@@ -16,3 +16,4 @@ flyway/flyway:11.8.1
 node:16.20.0-alpine
 node:22.2.0
 amazonlinux:latest
+amazoncorretto:17.0.13
