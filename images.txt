@@ -15,4 +15,3 @@ node:22.2.0
 amazonlinux:latest
 postgres:12.15-alpine
 openresty/openresty:alpine
-node:22.11.0
