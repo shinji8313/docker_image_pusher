@@ -16,3 +16,5 @@ amazonlinux:latest
 postgres:12.15-alpine
 openresty/openresty:alpine
 mysql:8.0.44
+nginx:alpine
+python:3.10-slim
