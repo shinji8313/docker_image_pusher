@@ -18,3 +18,5 @@ openresty/openresty:alpine
 mysql:8.0.44
 nginx:alpine
 python:3.10-slim
+fauria/vsftpd:latest
+atmoz/sftp:latest
